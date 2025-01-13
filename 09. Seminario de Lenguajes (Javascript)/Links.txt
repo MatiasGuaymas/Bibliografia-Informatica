@@ -1,0 +1,18 @@
+● JavaScript. https://developer.mozilla.org/es/docs/Web/JavaScript
+● Standard ECMA-262 https://www.ecma-international.org/publications/standards/Ecma-262.htm
+● JavaScript: The Definitive Guide, 7th Edition. D. Falagan (2020) . Ed O`Reilly https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/
+● Referencia de JavaScript. https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia
+● HTML Living standard https://html.spec.whatwg.org/multipage/
+● HTML 5.2 W3C Recommendation https://www.w3.org/TR/html52/
+● HTML5: Entienda el cambio, aproveche su potencial. De Luca, Damián. (2011). Ed. Andina http://catalogo.info.unlp.edu.ar/meran/opac-detail.pl?id1=5738#.X70rOrN7lPY
+● Pro HTML5 accessibility: building an inclusive web. O Connor, Joshue (2012). Ed. Apress. http://catalogo.info.unlp.edu.ar/meran/opac-detail.pl?id1=7241#.X70tQLN7lPY
+● Beginning hybrid mobile application development. Panhale, Mahesh (2016) Ed. Apress http://catalogo.info.unlp.edu.ar/meran/opac-detail.pl?id1=7223#.X70s27N7lPY
+● W3C. Cascading Style Sheets. https://www.w3.org/Style/CSS/
+● Visual Studio Code (https://code.visualstudio.com/download)−Web Storm (https://www.jetbrains.com/webstorm/)
+● JavaScript Tutorial. https://www.w3schools.com/js/default.asp
+● NodeJS https://nodejs.org/es/
+● ReactJS https://es.react.dev/
+● Entendiendo los frameworks de JavaScript del lado del cliente https://developer.mozilla.org/es/docs/Learn/Herramientas_y_pruebas/Lado-del-cliente_JavaScript_frameworks
+● 3 librerías JavaScript para la visualización de datos (2019) https://www.analyticslane.com/2019/06/07/3-librerias-javascript-para-la-visualizacion-de-datos/
+● JavaScript: guía completa. Salvaggio, Alessandra y Testa, Gualtiero Ed. Marcombo . 2019.
+● Using GitHub Copilot with JavaScript. https://learn.microsoft.com/en-us/training/modules/introduction-copilot-javascript/
